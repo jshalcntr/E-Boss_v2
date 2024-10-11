@@ -1,0 +1,14 @@
+body {
+    background-image: url('../img/bg3.jpg');
+    background-size:cover; /* Adjusts the image to cover the entire background */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    color: whitesmoke;
+    font-size: 12px;
+}
+table th,tr{
+    color: whitesmoke;
+}
+.shadowed{
+    background: rgba(44, 44, 44, 0.8);
+}
